@@ -1,4 +1,4 @@
-# MongoDB Fundamentals - Week 1
+The database is designed to manage information about books in a bookstore. Each book is stored as a document containing details such as the title, author, genre, price, year of publication, and stock availability. MongoDB stores these documents inside a collection, making it easy to organize and retrieve data efficiently. The database connects through a secure URI stored in the .env file, ensuring sensitive credentials are not exposed. It supports basic operations like adding, updating, or deleting books, as well as advanced features such as filtering, sorting, pagination, aggregation for data analysis, and indexing to improve performance. This setup provides a simple but powerful way to demonstrate how MongoDB can be used to handle real-world bookstore data.# MongoDB Fundamentals - Week 1
 
 ## Setup Instructions
 
